@@ -1,1 +1,2 @@
 # odin-recipes
+I will discover what I have learned from the current Odin Project. Using Html to create a recipe website and implement it with a repository using git and github. At the end, I will have a fully function basic html website and information translated into github that reflects my progress.
